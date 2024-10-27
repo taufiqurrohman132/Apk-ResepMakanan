@@ -1,0 +1,438 @@
+<resources>
+    <string name="app_name">Dapu Redewe</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="staggered">Stag</string>
+    <string name="hallo_chef">Hallo, Chef!</string>
+    <string name="selamat_mencoba_resep_masakan">Selamat mencoba resep masakan</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="mahasiswa">Mahasiswa</string>
+    <string name="taufiqur_rohman">Taufiqur Rohman</string>
+
+    <string-array name="data_name">
+        <item>Oseng Sawi Putih Jagung</item>
+        <item>Takoyaki Mi</item>
+        <item>Mi Goreng</item>
+        <item>Cah Tauge dan Tahu</item>
+        <item>Mi Kangkung</item>
+        <item>Telur Ceplok Kecap</item>
+        <item>Telur Dadar Krispy</item>
+        <item>Sup Bayam Jagung</item>
+        <item>Bakwan Bayam</item>
+        <item>Tumis Teri Medan Bawang</item>
+        <item>Sambal Bajak</item>
+        <item>Cumi Sambal Hijau</item>
+        <item>Tempe Mendoan Rawit</item>
+        <item>Gembus Lombok Kethok</item>
+        <item>Sambal Goreng Kentang Udang</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/oseng_sawi</item>
+        <item>@drawable/takoyaki</item>
+        <item>@drawable/migoreng</item>
+        <item>@drawable/cahtauge</item>
+        <item>@drawable/mikangkung</item>
+        <item>@drawable/telorceplok</item>
+        <item>@drawable/telurkrispi</item>
+        <item>@drawable/supbayam</item>
+        <item>@drawable/bakwan</item>
+        <item>@drawable/tumisteri</item>
+        <item>@drawable/sambalbajak</item>
+        <item>@drawable/cumisambalhijau</item>
+        <item>@drawable/tempemendoan</item>
+        <item>@drawable/gembuslombok</item>
+        <item>@drawable/sambalgorengudang</item>
+    </integer-array>
+
+    <string-array name="data_overview">
+        <item>
+          &#160;&#160;&#160;&#160;&#160;&#160;&#160;Oseng Sawi Putih Jagung adalah salah satu hidangan khas Indonesia yang memadukan dua bahan utama, sawi putih dan jagung manis. Hidangan ini terkenal karena kesederhanaannya, namun tetap memberikan rasa yang lezat dan menggugah selera. Dengan bumbu sederhana seperti bawang putih, bawang merah, dan cabai, Oseng Sawi Putih Jagung menghadirkan cita rasa khas yang segar dan nikmat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Proses memasak Oseng Sawi Putih Jagung sangat mudah dan cepat, sehingga cocok bagi siapa pun yang ingin menyajikan hidangan sehat dalam waktu singkat. Sawi putih dipotong kecil-kecil, kemudian dicampur dengan jagung manis yang telah dipipil. Selanjutnya, kedua bahan tersebut ditumis bersama bumbu hingga layu dan matang. Proses penumisan yang singkat membantu mempertahankan tekstur renyah dari sawi putih dan manisnya jagung, yang memberikan perpaduan rasa yang sempurna.
+        </item>
+        <item>
+            &#160;&#160;&#160;&#160;&#160;&#160;&#160;Takoyaki adalah camilan khas Jepang yang terbuat dari adonan tepung terigu, diisi dengan potongan gurita, remahan tempura, jahe acar, dan bawang hijau. Makanan berbentuk bola ini dimasak dalam cetakan khusus, menghasilkan tekstur renyah di luar dan lembut di dalam. Takoyaki sering disajikan dengan saus khas, serpihan bonito, dan mayonnaise, memberikan cita rasa yang gurih dan nikmat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Di Takoyaki Mi, Anda bisa menikmati takoyaki dengan berbagai varian, mulai dari pilihan tradisional hingga variasi kreatif dengan beragam topping dan isian unik. Tempat ini menawarkan suasana santai dan ramah, cocok untuk makan cepat atau berbagi bersama teman.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Jika Anda ingin mencicipi pengalaman autentik makanan jalanan Jepang, mengunjungi Takoyaki Mi adalah pilihan yang sempurna. Dengan cita rasa yang menggugah selera dan suasana yang nyaman, tempat ini akan menjadi destinasi favorit bagi para pecinta takoyaki!
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mi Goreng adalah salah satu makanan khas Indonesia yang sangat digemari, terdiri dari mi yang digoreng bersama bahan-bahan seperti sayuran, telur, dan pilihan daging seperti ayam, udang, atau sapi. Cita rasanya yang khas berasal dari bumbu-bumbu seperti kecap manis, bawang putih, bawang merah, dan cabai, yang menjadikan hidangan ini kaya rasa.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Proses memasak Mi Goreng dimulai dengan merebus mi hingga matang, kemudian ditumis bersama bumbu dan tambahan sayuran seperti kol, wortel, dan daun bawang. Hidangan ini sering disajikan dengan pelengkap seperti kerupuk, acar, atau irisan mentimun, yang menambah kenikmatan.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mi Goreng dikenal dengan rasa gurihnya yang sedikit manis serta tekstur mi yang kenyal. Hidangan ini mudah ditemukan di warung makan hingga restoran, bahkan populer sebagai makanan rumahan. Mi Goreng juga menjadi pilihan praktis sebagai makanan cepat saji yang cocok dinikmati kapan saja.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Cah Tauge dan Tahu adalah hidangan khas Indonesia yang terdiri dari tauge (kecambah) dan tahu yang ditumis dengan bumbu-bumbu segar. Meskipun sederhana, hidangan ini sangat lezat dan menyegarkan, dengan bumbu-bumbu seperti bawang putih, bawang merah, dan kecap manis yang memberikan rasa khas yang nikmat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tahu yang digoreng ditambahkan ke dalam tumisan untuk memberikan tekstur lembut dan kandungan protein yang tinggi. Cah Tauge dan Tahu merupakan pilihan yang sehat dan praktis, cocok sebagai lauk pendamping nasi. Hidangan ini juga sangat populer di kalangan vegetarian, karena mengandung bahan-bahan alami yang bergizi, serta mudah disiapkan dalam waktu singkat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dengan kombinasi rasa yang seimbang dan gizi yang lengkap, Cah Tauge dan Tahu menjadi pilihan sempurna untuk hidangan sehari-hari yang menyenangkan dan menyehatkan.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Mi Kangkung adalah hidangan khas Indonesia yang menggabungkan mi dengan kangkung, sayuran hijau yang kaya akan nutrisi. Mi direbus terlebih dahulu, kemudian ditumis bersama kangkung dan bumbu seperti bawang putih serta kecap manis, menghasilkan rasa gurih dan segar.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Hidangan ini sering disajikan hangat sebagai lauk yang sehat dan praktis. Mi Kangkung populer di warung makan dan restoran, menjadikannya pilihan lezat untuk santapan sehari-hari. Kombinasi mi yang kenyal dengan kangkung yang renyah membuat hidangan ini disukai banyak orang.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Selain rasanya yang enak, Mi Kangkung juga merupakan pilihan yang bergizi. Kangkung kaya akan vitamin dan mineral yang bermanfaat bagi tubuh, sementara mi memberikan karbohidrat sebagai sumber energi. Hidangan ini cocok dinikmati kapan saja, baik untuk makan siang atau makan malam, dan bisa menjadi alternatif sehat untuk variasi menu sehari-hari.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Telur Ceplok Kecap adalah hidangan sederhana namun sangat lezat, terbuat dari telur yang digoreng setengah matang atau matang sempurna, kemudian disiram dengan kecap manis. Hidangan ini dikenal karena rasa manis dan gurih yang memadukan dengan sempurna.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dalam penyajiannya, telur ceplok biasanya digoreng dengan sedikit minyak hingga bagian kuning telur masih setengah matang, atau sesuai dengan selera. Setelah itu, kecap manis ditambahkan untuk memberikan rasa manis yang khas dan aroma yang menggugah selera. Hidangan ini sering disajikan dengan nasi putih hangat dan bisa dipadukan dengan sambal atau sayuran sebagai pelengkap.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Telur Ceplok Kecap adalah pilihan yang cepat dan mudah untuk sarapan atau makan siang. Kepraktisannya membuat hidangan ini menjadi favorit di banyak rumah tangga, karena mudah dibuat dan nikmat dinikmati kapan saja.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Telur Dadar Krispy adalah variasi dari telur dadar yang memiliki tekstur renyah di bagian luar, namun tetap lembut di bagian dalam. Hidangan ini dibuat dengan menambahkan tepung pada campuran telur dan bumbu, kemudian digoreng dalam minyak yang cukup banyak untuk menghasilkan permukaan krispy dan rasa gurih yang memanjakan selera.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Telur Dadar Krispy sangat populer karena proses pembuatannya yang sederhana dan cepat, menjadikannya pilihan praktis untuk lauk maupun camilan. Hidangan ini sering disajikan dengan nasi hangat dan sambal sebagai pelengkap, memberikan perpaduan rasa yang semakin nikmat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dengan cara penyajian yang mudah dan bahan-bahan yang terjangkau, Telur Dadar Krispy menjadi favorit di banyak rumah tangga sebagai hidangan sehari-hari yang lezat, praktis, dan mengenyangkan.    </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sup Bayam Jagung adalah hidangan sup yang ringan dan menyehatkan, menggabungkan bayam segar dan jagung manis sebagai bahan utama. Sup ini menawarkan rasa segar dan manis yang menyegarkan, serta mudah disiapkan dalam waktu singkat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Biasanya, bayam ditambahkan di akhir proses memasak untuk menjaga teksturnya yang lembut dan warnanya yang hijau cerah. Sup Bayam Jagung cocok disajikan sebagai hidangan pembuka atau menu harian yang bergizi, memberikan asupan serat dan vitamin yang baik untuk tubuh. Dengan rasa yang ringan dan menyegarkan, sup ini menjadi pilihan yang tepat untuk dinikmati kapan saja.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sup Bayam Jagung juga bisa dimodifikasi dengan menambahkan bahan lain, seperti tofu, ayam, atau kaldu sayuran, untuk memberikan rasa yang lebih kaya dan variasi tekstur. Hidangan ini sangat fleksibel dan bisa disesuaikan dengan selera, menjadikannya pilihan praktis dan lezat untuk seluruh keluarga.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Bakwan Bayam adalah gorengan yang renyah dan gurih, terbuat dari adonan tepung yang dicampur dengan bayam segar. Hidangan ini memadukan tekstur krispi dari gorengan dengan kelembutan dan kesegaran bayam, menciptakan kombinasi rasa yang unik dan lezat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Biasanya, bayam dicampur dengan adonan tepung terigu, bawang, dan bumbu-bumbu sederhana, lalu digoreng hingga kecokelatan dan garing. Bakwan Bayam cocok disajikan sebagai camilan ringan atau pelengkap makanan utama, sering dinikmati bersama sambal atau saus sebagai pendamping.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dengan cara penyajian yang sederhana namun menggugah selera, Bakwan Bayam menjadi pilihan populer di berbagai kesempatan, baik sebagai hidangan sehari-hari maupun dalam acara spesial. Rasanya yang gurih dan renyah menjadikannya favorit di banyak rumah tangga.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tumis Teri Medan Bawang adalah hidangan gurih yang sederhana, terdiri dari ikan teri Medan yang digoreng garing dan ditumis bersama bawang putih serta bawang merah. Ikan teri yang asin dan renyah berpadu dengan aroma harum bawang yang ditumis, menciptakan rasa yang kaya dan lezat.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Hidangan ini biasanya disajikan sebagai lauk pendamping nasi hangat, dan sering kali diberi tambahan cabai untuk memberikan rasa pedas yang menggugah selera. Tumis Teri Medan Bawang merupakan pilihan yang praktis dan cepat untuk santapan sehari-hari, cocok dinikmati kapan saja dengan keluarga atau teman. Rasanya yang kuat dan menggoda menjadikannya hidangan favorit di banyak rumah tangga.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Selain rasanya yang nikmat, Tumis Teri Medan Bawang juga mengandung banyak protein dari ikan teri yang sehat dan bergizi. Hidangan ini sangat fleksibel dan bisa dipadukan dengan berbagai jenis sayuran atau bahkan diberi tambahan kecap manis untuk variasi rasa. Dengan cara penyajian yang sederhana, Tumis Teri Medan Bawang tetap menjadi pilihan lauk yang menggugah selera dan cocok untuk dinikmati setiap hari.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sambal Bajak adalah sambal khas Indonesia yang terkenal dengan cita rasa pedas dan gurih. Sambal ini sering kali diberi tambahan terasi untuk memperkuat rasa dan memberikan aroma khas yang menggugah selera.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Biasanya, Sambal Bajak disajikan sebagai pelengkap berbagai hidangan tradisional, seperti ayam goreng, ikan bakar, atau nasi uduk. Rasanya yang kaya dengan bumbu yang kuat membuat sambal ini menjadi favorit di berbagai daerah. Dengan tingkat kepedasan yang pas dan cita rasa yang intens, Sambal Bajak menjadi pilihan sempurna untuk menambah kelezatan hidangan sehari-hari.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Selain sebagai pelengkap hidangan, Sambal Bajak juga bisa dijadikan sebagai bahan untuk bumbu masakan, memberikan sentuhan pedas yang khas pada berbagai menu, seperti tumisan sayur atau bahkan sambal untuk sate. Keunikan rasa dan kesederhanaan bahan-bahannya membuat sambal ini mudah untuk dibuat di rumah dan cocok untuk berbagai selera.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Cumi Sambal Hijau adalah hidangan laut yang pedas dan gurih, menggunakan cumi-cumi sebagai bahan utama yang dimasak dengan sambal hijau dari cabai hijau, tomat hijau, dan bawang. Hidangan ini menawarkan rasa pedas yang segar dengan sentuhan keasaman dari tomat hijau, menciptakan kombinasi yang menggugah selera.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Cumi dimasak hingga empuk, kemudian ditumis bersama sambal hijau yang telah dihaluskan dan ditumis. Rasanya yang pedas dan segar menjadikannya pilihan sempurna untuk dinikmati dengan nasi hangat. Cumi Sambal Hijau sering dijumpai di berbagai restoran seafood dan menjadi menu spesial bagi pecinta makanan pedas.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Selain cita rasa yang nikmat, hidangan ini juga menyuguhkan tekstur cumi yang kenyal, memberikan pengalaman makan yang memuaskan. Keasaman dari tomat hijau dan pedasnya cabai hijau juga memberi keseimbangan rasa yang membuat Cumi Sambal Hijau semakin istimewa.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tempe Mendoan Rawit adalah variasi dari tempe mendoan yang disajikan dengan cabai rawit untuk menambah sensasi pedas. Tempe mendoan sendiri terbuat dari tempe yang dilapisi adonan tepung berbumbu dan digoreng setengah matang, menghasilkan tekstur yang lembut di dalam dan sedikit renyah di bagian luar.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Tempe Mendoan Rawit biasanya disajikan dengan cabai rawit utuh sebagai pendamping, di mana tempe yang gurih dan lembut dikombinasikan dengan rasa pedas yang menyengat dari cabai. Hidangan ini populer sebagai camilan atau lauk di berbagai daerah di Indonesia, sering kali dinikmati dengan sambal atau saus kacang sebagai pelengkap.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dengan rasa yang gurih dan pedas, Tempe Mendoan Rawit menjadi pilihan camilan yang menggugah selera dan cocok untuk menemani aktivitas santai atau sebagai lauk pendamping nasi. Kombinasi tempe mendoan yang lembut dengan cabai rawit yang pedas menjadikan hidangan ini sangat disukai oleh penggemar makanan pedas.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Gembus Lombok Kethok adalah masakan tradisional yang menggunakan tempe gembus sebagai bahan utama, dipadukan dengan cabai yang dipotong-potong (lombok kethok). Tempe gembus, yang terbuat dari ampas tahu, memiliki tekstur lebih lunak dibandingkan tempe biasa, memberikan sensasi yang berbeda dalam setiap gigitan.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Dalam hidangan ini, tempe gembus dimasak bersama potongan cabai merah atau hijau, biasanya ditumis dengan bawang merah, bawang putih, dan bumbu-bumbu lainnya. Rasanya yang gurih berpadu dengan sentuhan pedas dari cabai, menciptakan kombinasi rasa yang sederhana namun menggugah selera. Gembus Lombok Kethok sering disajikan sebagai lauk sederhana namun lezat di berbagai rumah makan tradisional.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Hidangan ini mudah ditemukan di warung makan khas Indonesia dan menjadi pilihan favorit untuk menikmati tempe dalam variasi yang berbeda. Dengan rasa pedas dan gurih, Gembus Lombok Kethok cocok dinikmati bersama nasi hangat untuk hidangan sehari-hari yang memuaskan.
+        </item>
+        <item>
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Sambal Goreng Kentang Udang adalah hidangan yang menggugah selera, terdiri dari kentang yang digoreng dan udang yang dimasak dalam sambal pedas. Kentang dipotong dadu dan digoreng hingga kecokelatan, memberikan tekstur renyah yang memanjakan lidah. Kemudian, kentang ini dicampur dengan udang yang telah dibumbui, serta sambal yang terbuat dari cabai, bawang merah, bawang putih, dan bumbu lainnya.\n
+
+&#160;&#160;&#160;&#160;&#160;&#160;&#160;Hidangan ini memiliki rasa pedas yang menggigit dan gurih yang khas, dengan tekstur kentang yang renyah dan udang yang kenyal. Sambal Goreng Kentang Udang sering disajikan sebagai lauk pendamping nasi putih, menjadikannya pilihan yang populer dalam berbagai masakan Indonesia. Keunikan rasa pedas dan gurih dari hidangan ini menjadikannya favorit di banyak rumah makan dan cocok dinikmati dalam berbagai kesempatan.
+        </item>
+
+    </string-array>
+
+    <string-array name="data_bahan">
+        <item>&#160;- 1 buah/bonggol sawi putih potong-potong \n
+            - 1 buah jagung manis, serut\n
+            - 3 siung bawang putih cincang\n
+            - Secukupnya cabai\n
+            - Gula garam kaldu bubuk secukupnya\n
+            - Air secukupnya
+        </item>
+        <item>
+            &#160;- 1/2 bungkus mi\n
+- 3 butir telur, kocok lepas\n
+- 2 sdm tepung terigu\n
+- 4 sdm susu cair\n
+- 1/2 bagian wortel, rebus sebentar, iris halus\n
+- 1 buah smoked beef, iris halus\n
+- 1 batang daun bawang, iris halus\n
+- Garam, Lada, sedikit kaldu bubuk
+        </item>
+        <item>
+           &#160;- 1 bungkus mi telur\n
+- 100 gr sawi pakcoy, potong kecil-kecil\n
+- 50 gr udang kupas\n
+- 1 butir telur\n
+- 3 siung bawang putih cincang\n
+- Setengah sdt kaldu bubuk rasa ayam\n
+            - 1 sdm kecap manis\n
+- 2 sdm kecap asin\n
+- Seperempat sdt lada bubuk\n
+- Setengah sdm saus tiram\n
+- 1 sdm minyak sayur\n
+- 1 sdt kaldu jamur bubuk
+        </item>
+        <item>
+            &#160;- 1/4 Tauge (cuci bersih)\n
+- 3 buah tahu putih (potong dadu)\n
+- 5 buah bakso sapi (belah dua)\n
+- 5 buah cabai rawit merah\n
+- 2 buah cabai merah keriting\n
+- 3 buah bawang merah\n
+- 2 siung bawang putih\n
+- Garam secukupnya\n
+- Gula pasir secukupnya\n
+- Kaldu bubuk secukupnya\n
+- 1 sdm Saori
+        </item>
+        <item>
+            &#160;- 300 gr mi basah\n
+- 4 sdm minyak goreng\n
+- 4 butir bawang merah, haluskan\n
+- 3 siung bawang putih, haluskan\n
+- 1 sdm ebi\n
+- 300 ml kaldu ayam\n
+- 100 gr daging ayam, potong dadu\n
+- 10 butir telur puyuh rebus, kupas\n
+- 1/2 sdm tepung kanji, larutkan dengan sedikit air\n
+- 1 sdm kecap asin\n
+- 1/2 sdt kecap manis\n
+- 1 sdt minyak wijen\n
+- 1/2 sdt bubuk lada\n
+- 1 sdt garam halus\n
+- 1 batang daun bawang, potong-potong\n
+- 1 ikat kecil kangkung, potong-potong
+        </item>
+        <item>
+            &#160;- telur sesuai kebutuhan\n
+- bawang putih secukupnya\n
+- bawang merah secukupnya\n
+- cabai rawit secukupnya\n
+- kecap asin atau manis\n
+- daun bawang\n
+- merica secukupnya
+        </item>
+        <item>
+           &#160;- 2 butir telur\n
+- 2 tahu, haluskan\n
+- 2 butir bawang merah, iris tipis\n
+- 2 cabai merah, iris serong\n
+- cabai rawit, iris\n
+- daun bawang, iris\n
+- garam dan lada secukupnya
+        </item>
+        <item>
+            &#160;- 1 ikat bayam, ambil daunnya.\n
+- 1 buah jagung manis, sisir.\n
+- 5 buah bakso, potong-potong.\n
+- 1 buah tomat, potong-potong.\n
+- 3 siung bawang putih, haluskan.\n
+- 1/4 sdt merica bubuk.\n
+- 1 batang kemangi, ambil daunnya.\n
+- 1 sdm margarin\n
+- Gula, garam, dan kaldu bubuk secukupnya.
+        </item>
+        <item>
+Bahan-bahan:\n
+- 1 ikat bayam, ambil daunnya, cuci bersih dan iris halus.\n
+- 1 buah wortel, iris korek api.\n
+- Daun bawang, iris.\n
+- Udah cincang\n
+- Air secukupnya\n
+- Tepung beras\n
+- Terigu\n
+- Tepung bumbu, bisa yang khusus bakwan.\n
+            \n
+Bumbu halus:\n
+- 3 siung bawang putih\n
+- 4 butir bawang merah\n
+- Sedikit ketumbar bubuk\n
+- Lada halus
+        </item>
+        <item>
+            &#160;- 100 gr teri medan\n
+- 10 butir bawang merah, iris\n
+- 2 butir bawang putih, iris\n
+- 1 batang daun bawang, iris\n
+- 1 butir tomat hijau\n
+- 2 butir jengki, iris tipis\n
+- 3 buah cabai merah keriting, iris\n
+- 1 genggam rawit hijau dan merah, iris, sebagian biarkan utuh\n
+- Gula pasir, garam dan penyedap secukupnya\n
+- Minyak sayur secukupnya\n
+- 1 buah jeruk nipis
+        </item>
+        <item>
+            &#160;- Segenggam cabai rawit.\n
+- 8 Cabai merah keriting.\n
+- 5 Siung bawang putih.\n
+- Garam secukupnya.\n
+- Minyak panas secukupnya.\n
+        </item>
+        <item>
+            &#160;- cumi 500 gr\n
+- pokak secukupnya\n
+- garam/penyedap\n
+- bombay iris secukupnya\n
+- potongan tomat/dadu\n
+- air jeruk nipis\n
+- daun jeruk nipis\n
+\n
+            Bumbu halus:\n
+- bamer 12-15 buah ukuran kecil\n
+- baput 1 siung\n
+- cabai hijau 1 ons
+        </item>
+        <item>
+            &#160;- 1 bungkus tempe seharga 5000 dan potong tipis-tipis\n
+- 4 rawit lombok, potong kecil-kecil\n
+- daun bawang secukupnya, potong-potong\n
+- 100 gr tepung terigu prot rendah/sedang\n
+- 2 sdm tepung beras\n
+- garam dan kaldu bubuk secukupnya\n
+- air secukupnya\n
+\n
+Haluskan:\n
+- 4 siung bawang putih\n
+- 5-6 siung bawang merah\n
+- 1/2 cm kunyit\n
+- 2 keping kemiri
+        </item>
+        <item>
+            &#160;- 300 gr gembus bacem, iris-iris\n
+- 2 lembar daun salam\n
+- 2 cm lengkuas\n
+- 4 buah cabai merah besar, potong bulat\n
+- 4 buah cabai hijau besar, potong bulat\n
+- 6 butir bawang merah, iris tipis\n
+- 3 siung bawang putih, iris tipis\n
+- 100 ml air\n
+- 2 sendok makan kecap manis\n
+- 1 sendok teh kaldu sapi bubuk atau garam sesuai selera
+        </item>
+        <item>
+            &#160;- 1/4 kg udang (buang kepala dan kupas kulitnya, sisihkan)\n
+- 1/2 kg kentang potong kotak lalu goreng sampai matang.\n
+- 2 papan petai kupas\n
+- 1 bungkus kecil santan instan\n
+- 1 sdm kaldu jamur\n
+- Garam sedikit saja\n
+- 2 lembar daun salam\n
+- 1 serai, geprek\n
+- Lengkuas, geprek\n
+\n
+Bumbu halus:\n
+- 15 Cabai merah keriting\n
+- 10 siung bawang merah
+        </item>
+
+    </string-array>
+
+    <string-array name="data_intruksi">
+        <item>
+            &#160;1. Tumis bawang putih sampai harum, masukkan cabai uleg, jagung, dan air\n
+            2. Tunggu sampai jagung empuk/cukup matang\n
+            3. Masukkan sawi putih, tambah garam gula dan kaldu bubuk\n
+            4. Aduk rata tunggu sawi layu, matikan kompor\n
+            5. Sajikan pada mangkuk.
+        </item>
+        <item>
+            &#160;1. Rebus matang mi, tiriskan dan sisihkan\n
+2. Larutkan tepung terigu dengan susu cair, aduk sampai tidak bergerindil\n
+3. Masukkan telur, smocked beef, daun bawang, garam, lada, kaldu, telur, dan mie, aduk rata\n
+4. Tuang kedalam cetakan takoyaki, masak sampai matang dengan api kecil dan pan ditutup.
+        </item>
+        <item>
+            &#160;1. Dalam wadah, campur semua bahan kecap. Aduk rata\n
+2. Rebus mi telur, bilas dengan air mengalir sambil diangkat agar tidak nempel, lalu tiriskan\n
+3. Campur mi telur yang sudah direbus dengan bahan kecap, aduk sampai merata. Sisihkan\n
+4. Tumis bawang putih hingga harum, pecahkan telur lalu orak arik. Masukkan udang tumis sebentar, masukkan sawi pakcoy tumis lagi. Beri kaldu bubuk rasa ayam aduk rata\n
+5. Masukkan mi yang sudah diaduk dengan bahan kecap tadi. Tumis mi hingga tercampur rata dengan api sedang\n
+6. Tes rasa dan sajikan.
+        </item>
+        <item>
+            &#160;1. Goreng tahu dan bakso (jangan terlalu kering). Tiriskan\n
+2. Tumis bumbu yang sudah dirajang sampai harum\n
+3. Tambahkan saori, garam, gula dan kaldu bubuk\n
+4. Masukkan tauge tahu dan bakso, aduk sebentar sampai rata. Koreksi rasa (jangan ditambah air)\n
+5. Angkat dan sajikan.
+        </item>
+        <item>
+            &#160;1. Siram mi basah dengan air mendidih, tiriskan. Panaskan minyak, tumis bawang merah, bawang putih, dan ebi sampai harum. Tuang kaldu, masak sampai mendidih\n
+2. Masukkan daging ayam, telur puyuh, larutan tepung kanji, kecap asin, kecap manis, minyak wijen, lada, dan garam. Aduk rata\n
+3. Tambahkan kangkung, daun bawang, dan mi. Aduk kembali sampai rata. Masak sampai matang. Angkat\n
+4. Sajikan.
+        </item>
+        <item>
+            &#160;1. Goreng telur, sesuai selera ya mau matang atau setengah matang. Sisihkan\n
+2. Tumis bawang putih dan bawang merah hingga harum dan berubah warna. Masukkan irisan daun bawang dan cabai rawit.\n
+3. Beri kecap manis, kecap asin dan merica boleh tambah air sedikit). Aduk saus sampai mendidih dan kental, masukkan telur dan aduk hingga tercampur merata dengan saus\n
+4. Sajikan.
+        </item>
+        <item>
+            &#160;1. Campur tahu yang telah dihaluskan dengan telur. Tambahkan irisan bawang merah, cabai merah, daun bawang, garam dan lada, aduk rata\n
+2. Panas minyak agak banyak hingga benar-benar panas, goreng hingga matang, angkat dan tiriskan\n
+3. Sajikan hangat-hangat.
+        </item>
+        <item>
+           &#160;1. Cuci bersih bayam, rendam dengan 1 sdm garam selama 10 menit (untuk mematikan binatang-binatang kecil yang masih ada)\n
+2. Cuci bersih lagi. Tiriskan\n
+3. Panaskan margarin, tumis bawang putih halus hingga harum. Masukkan potongan bakso dan jagung manis, aduk rata\n
+4. Tambahkan air secukupnya, masak sampai mendidih\n
+5. Masukkan daun bayam dan kemangi. Bumbui dengan gula, garam, merica bubuk, dan kaldu bubuk secukupnya. Masak sampai bayam matang\n
+6. Menjelang matang masukkan irisan tomat. Masak sebentar saja. Jangan lupa tes rasa.
+        </item>
+        <item>
+            &#160;1. Campur semua tepung, masukan bumbu. Tambahkan air. Aduk\n
+2. Masukan bayam, wortel, daun bawang. Aduk rata\n
+3. Panaskan minyak, goreng hingga kuning keemasan.
+        </item>
+        <item>
+            &#160;1. Cuci teri dengan air mengalir, kemudian tiriskan. Siram dengan air jeruk nipis. Diamkan beberapa saat. Goreng sampai matang\n
+2. Tumis jengki, duo bawang dan cabai sampai harum\n
+3. Masukkan teri goreng, daun bawang dan tomat. Aduk rata\n
+4. Bubuhi dengan gula pasir, garam dan penyedap\n
+5. Test dan koreksi rasa. Angkat dan sajikan dengan nasi hangat.
+        </item>
+        <item>
+&#160;1. Goreng cabai dan bawang sebentar saja, kemudian ulek kasar\n
+2. Beri garam secukupnya\n
+3. Terakhir siram pakai minyak goreng panas.
+        </item>
+        <item>
+            &#160;1. Bersihkan cuci, potong-potong.\n
+2. Sirami dengan air jeruk nipis dan garam diamkan 5 menit kemudian bilas, goreng cumi sebentar dan tiriskan\n
+3. Cuci pokak, goreng sebentar, sisihkan\n
+4. Ulek kasar cabai, garam/penyedap\n
+5. Panaskan minyak, masukkan bombai, potongan tomat sampai layu, masukkan cabai ulek dan daun jeruk\n
+6. Masukkan cumi dan pokak aduk-aduk sampai tercampur rata sajikan.
+        </item>
+        <item>
+            &#160;1. Satukan semua bahan, sembuhkan air secukupnya sambil di aduk-aduk\n
+2. Lumuri tempe dengan adonan, lalu goreng hingga matang, sesuai selera\n
+3. Sajikan dengan sambal kecap/kecap pedas juga boleh.
+        </item>
+        <item>
+            &#160;1. Tumis bawang merah dan bawang putih hingga matang dan harum\n
+2. Masukkan cabai, aduk hingga layu\n
+3. Masukkan daun salam, dan lengkuas\n
+4. Masukkan gembus, air dan bumbu-bumbu lain. Masak hingga meresap.
+        </item>
+        <item>
+            &#160;1. Tumis sampai matang bumbu halus masukkan daun salam, serai, lengkuas tunggu sampai tercium bau wangi\n
+2. Masukkan udang, aduk hingga berubah warna baru masukkan kentang, petai, santan, dan kaldu jamur\n
+3. Masak sampai meresap, tes rasa dan sajikan.
+        </item>
+
+    </string-array>
+
+</resources>

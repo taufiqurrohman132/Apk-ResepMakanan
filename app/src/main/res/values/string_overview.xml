@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="data_photo_overview_osengsawi1">
+        <item>@drawable/osengsawi1</item>
+        <item>@drawable/osengsawi2</item>
+        <item>@drawable/osengsawi3</item>
+        <item>@drawable/osengsawi4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_takoyaki2">
+        <item>@drawable/takoyaki1</item>
+        <item>@drawable/takoyaki2</item>
+        <item>@drawable/takoyaki3</item>
+        <item>@drawable/takoyaki4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_migoreng3">
+        <item>@drawable/migoreng1</item>
+        <item>@drawable/migoreng2</item>
+        <item>@drawable/migoreng3</item>
+        <item>@drawable/migoreng4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_cahtauge4">
+        <item>@drawable/cahtauge1</item>
+        <item>@drawable/cahtauge2</item>
+        <item>@drawable/cahtauge3</item>
+        <item>@drawable/cahtauge4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_mikangkung5">
+        <item>@drawable/mikangkung1</item>
+        <item>@drawable/mikangkung2</item>
+        <item>@drawable/mikangkung3</item>
+        <item>@drawable/mikangkung4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_telurceplok6">
+        <item>@drawable/telurkecap1</item>
+        <item>@drawable/telurkecap2</item>
+        <item>@drawable/telurkecap3</item>
+        <item>@drawable/telurkecap4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_telurdadar7">
+        <item>@drawable/telurkrispi1</item>
+        <item>@drawable/telurkrispi2</item>
+        <item>@drawable/telurkrispi3</item>
+        <item>@drawable/telurkrispi4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_supbayam8">
+        <item>@drawable/supbayam1</item>
+        <item>@drawable/supbayam2</item>
+        <item>@drawable/supbayam3</item>
+        <item>@drawable/supbayam4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_bakwanbayam9">
+        <item>@drawable/bakwan1</item>
+        <item>@drawable/bakwan2</item>
+        <item>@drawable/bakwan3</item>
+        <item>@drawable/bakwan4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_tumisteri10">
+        <item>@drawable/tumisteri1</item>
+        <item>@drawable/tumisteri2</item>
+        <item>@drawable/tumisteri3</item>
+        <item>@drawable/tumisteri4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_sambalbajak11">
+        <item>@drawable/sambalbjk1</item>
+        <item>@drawable/sambalbjk2</item>
+        <item>@drawable/sambalbjk3</item>
+        <item>@drawable/sambalbjk4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_cumisambal12">
+        <item>@drawable/cumihijau1</item>
+        <item>@drawable/cumihijau2</item>
+        <item>@drawable/cumihijau3</item>
+        <item>@drawable/cumihijau4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_tempemendoan13">
+        <item>@drawable/tempemendoan1</item>
+        <item>@drawable/tempemendoan2</item>
+        <item>@drawable/tempemendoan3</item>
+        <item>@drawable/tempemendoan4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_gembus14">
+        <item>@drawable/gembus1</item>
+        <item>@drawable/gembus2</item>
+        <item>@drawable/gembus3</item>
+        <item>@drawable/gembus4</item>
+    </integer-array>
+    <integer-array name="data_photo_overview_sambalgoreng15">
+        <item>@drawable/kentangudang1</item>
+        <item>@drawable/kentangudang2</item>
+        <item>@drawable/kentangudang3</item>
+        <item>@drawable/kentangudang4</item>
+    </integer-array>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="photo_memasak">
+        <item>@drawable/osengsawi1</item>
+        <item>@drawable/takoyaki2</item>
+        <item>@drawable/migoreng3</item>
+        <item>@drawable/cahtauge1</item>
+        <item>@drawable/mikangkung4</item>
+        <item>@drawable/telurkecap2</item>
+        <item>@drawable/telurkrispi1</item>
+        <item>@drawable/supbayam2</item>
+        <item>@drawable/bakwan1</item>
+        <item>@drawable/tumisteri3</item>
+        <item>@drawable/sambalbjk4</item>
+        <item>@drawable/cumihijau1</item>
+        <item>@drawable/tempemendoan3</item>
+        <item>@drawable/gembus1</item>
+        <item>@drawable/kentangudang4</item>
+    </integer-array>
+</resources>

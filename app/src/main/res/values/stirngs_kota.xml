@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="jakarta">Jakarta</string>
+    <string name="bandung">Bandung</string>
+    <string name="magelang">Magelang</string>
+    <string name="lamongan">Lamongan</string>
+    <string name="semarang">Semarang</string>
+    <string name="tegal">Tegal</string>
+    <string name="pekalongan">Pekalongan</string>
+    <string name="wonosobo">Wonosobo</string>
+    <string name="rembang">Rembang</string>
+    <string name="yogyakarta">Yogyakarta</string>
+    <string name="kudus">Kudus</string>
+    <string name="malang">Malang</string>
+    <string name="madiun">Madiun</string>
+    <string name="tangerang">Tangerang</string>
+    <string name="ngajuk">Nganjuk</string>
+    <string name="tasikmalaya">Tasikmalaya</string>
+    <string name="kota_probolinggo">Probolinggo</string>
+</resources>
