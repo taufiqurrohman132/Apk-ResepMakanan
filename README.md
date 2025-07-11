@@ -1,10 +1,44 @@
-# 📱 EventApp – Aplikasi Event Modern dengan Kotlin
+# 📱 EventLite – Aplikasi Artikel Event Interaktif dengan Kotlin
 
-Aplikasi Android yang menampilkan daftar event terkini dan terlengkap. Dibangun dengan arsitektur modern, fitur lengkap, dan UI yang ramah pengguna. Cocok sebagai showcase untuk posisi **Mobile Developer (Android - Kotlin)**.
+Aplikasi Android sederhana yang menyajikan daftar event/artikel terkini dalam format list interaktif. Dirancang untuk memenuhi submission akhir kelas **Memulai Pemrograman Android**, sekaligus sebagai portfolio awal untuk posisi **Android Developer (Entry-Level)**. Dibangun dengan arsitektur modern dan praktik terbaik dari industri.
 
 ---
 
-## 📸 Cuplikan Tampilan
+## 🏁 Fitur Utama
+
+### 🏠 Halaman Utama
+- Menampilkan **10+ item artikel/event** dengan judul dan gambar.
+- Disusun dalam **RecyclerView** dengan desain bersih dan responsif.
+- Menerapkan **handler click** untuk membuka detail masing-masing item.
+
+### 📄 Halaman Detail
+- Menampilkan informasi lengkap dari item yang dipilih:
+  - Gambar, Judul, dan Deskripsi detail.
+- Menggunakan **ScrollView** agar konten tetap terbaca saat rotasi layar.
+- Konsisten dengan data yang ditampilkan di halaman utama.
+
+### 👤 Halaman About
+- Menampilkan:
+  - Foto diri
+  - Nama lengkap
+  - Email akun Dicoding
+
+---
+
+## ✨ Teknologi dan Praktik Terbaik
+
+| Kategori             | Teknologi / Tools            |
+|----------------------|------------------------------|
+| Bahasa Pemrograman   | Kotlin                       |
+| Tampilan List        | RecyclerView                 |
+| Navigasi             | Intent                       |
+| UI Responsif         | ConstraintLayout, ScrollView |
+| Manajemen Resource   | Drawable, String             |
+| Orientasi Support    | ScrollView Rotation-Safe     |
+
+---
+
+## 📸 Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d9c365f-a6bc-47a1-9353-9d55093f1658" width="30%" />
@@ -19,73 +53,8 @@ Aplikasi Android yang menampilkan daftar event terkini dan terlengkap. Dibangun 
 
 ---
 
-## ✨ Fitur Unggulan
+## 🚀 Cara Menjalankan Proyek
 
-### 🧭 Navigasi & Home
-- Bottom Navigation dengan 3 menu utama: Home, Aktif, Selesai
-- Halaman **Home dinamis**:
-  - Carousel Event Aktif
-  - List horizontal Event Selesai
-- Responsif terhadap perubahan orientasi (rotation-safe)
-
-### 📅 List & Detail Event
-- Menampilkan list event dari API:
-  - Gambar, nama acara
-- Halaman detail event menampilkan:
-  - Gambar
-  - Nama acara
-  - Penyelenggara acara
-  - Waktu acara
-  - Sisa kuota
-  - Deskripsi acara
-  - Tombol untuk membuka link acara
-
-### 🔍 Fitur Pencarian
-- Pencarian real-time menggunakan **SearchView**
-- Query ke endpoint API secara langsung
-- Hasil diperbarui secara dinamis saat mengetik
-
-### ❤️ Fitur Favorit
-- Tambah dan hapus event favorit
-- Data disimpan secara lokal menggunakan Room Database
-- Halaman khusus menampilkan daftar favorit
-- Bisa membuka detail dari event favorit
-
-### 🌙 Tema Gelap & Terang
-- Mendukung pengaturan tema (light/dark)
-- Penyimpanan preferensi tema dengan **DataStore**
-- Tema tetap tersimpan walau aplikasi ditutup
-- Komponen UI tetap terbaca jelas di kedua mode
-
-### ⏰ Notifikasi Harian
-- Notifikasi event aktif terdekat setiap hari
-- Menggunakan **WorkManager** (interval 1 hari)
-- Menu pengaturan untuk mengaktifkan/mematikan notifikasi
-- Hanya tampil jika pengaturan diaktifkan
-
----
-
-## 🛠️ Teknologi yang Digunakan
-
-| Kategori             | Teknologi / Tools                                  |
-|----------------------|----------------------------------------------------|
-| Bahasa Pemrograman   | Kotlin                                             |
-| Arsitektur           | MVVM (Model-View-ViewModel)                        |
-| Networking           | Retrofit, Gson, Coroutine                          |
-| Local Storage        | Room Database                                      |
-| State Management     | LiveData, ViewModel                                |
-| Dependency Mgmt      | Manual Dependency Injection (siap migrasi ke Hilt) |
-| Persistent Storage   | DataStore Preferences                              |
-| Background Task      | WorkManager                                        |
-| UI                   | Material Components, RecyclerView, ViewPager2, SearchView |
-| Navigasi             | Fragment + BottomNavigationView                    |
-| UX Improvement       | Shimmer Loading, Error Message, Snackbar           |
-| Orientasi Support    | ViewModel survives rotation                        |
-
----
-
-## 🚀 Cara Menjalankan Proyek Ini
-
-1. Clone repository ini:
+1. Clone repositori:
    ```bash
    git clone https://github.com/taufiqurrohman132/Apk-DicodingEvent.git
