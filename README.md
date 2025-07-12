@@ -1,4 +1,4 @@
-# Dapu Redewe(First Project) – Aplikasi Resep Masahakan Interaktif dengan Kotlin
+# Dapu Redewe(First Project) – Aplikasi Resep Masakan Interaktif dengan Kotlin
 
 Aplikasi Android sederhana yang menyajikan beberapa resep masakan dalam format list interaktif. Dirancang untuk memenuhi submission akhir kelas **Memulai Pemrograman Android**, sekaligus sebagai portfolio awal untuk posisi **Android Developer (Entry-Level)**. Dibangun dengan arsitektur modern dan praktik terbaik dari industri.
 
@@ -41,7 +41,7 @@ Aplikasi Android sederhana yang menyajikan beberapa resep masakan dalam format l
 
 ---
 
-## ✨ Teknologi dan Praktik Terbaik
+## ✨ Teknologi yang di gunakan
 
 | Kategori             | Teknologi / Tools            |
 |----------------------|------------------------------|
@@ -59,4 +59,4 @@ Aplikasi Android sederhana yang menyajikan beberapa resep masakan dalam format l
 
 1. Clone repositori:
    ```bash
-   git clone https://github.com/taufiqurrohman132/Apk-DicodingEvent.git
+   git clone https://github.com/taufiqurrohman132/Apk-ResepMakanan.git
