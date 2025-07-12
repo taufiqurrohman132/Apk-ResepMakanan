@@ -1,10 +1,10 @@
-# 📱 EventLite – Aplikasi Artikel Event Interaktif dengan Kotlin
+# Dapu Redewe(First Project) – Aplikasi Resep Masahakan Interaktif dengan Kotlin
 
-Aplikasi Android sederhana yang menyajikan daftar event/artikel terkini dalam format list interaktif. Dirancang untuk memenuhi submission akhir kelas **Memulai Pemrograman Android**, sekaligus sebagai portfolio awal untuk posisi **Android Developer (Entry-Level)**. Dibangun dengan arsitektur modern dan praktik terbaik dari industri.
+Aplikasi Android sederhana yang menyajikan beberapa resep masakan dalam format list interaktif. Dirancang untuk memenuhi submission akhir kelas **Memulai Pemrograman Android**, sekaligus sebagai portfolio awal untuk posisi **Android Developer (Entry-Level)**. Dibangun dengan arsitektur modern dan praktik terbaik dari industri.
 
 ---
 
-## 📸 Tampilan Aplikasi
+## Tampilan Aplikasi
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1d51932b-9963-440b-9bbd-c21bf6ee93e1" width="30%" />
@@ -20,20 +20,20 @@ Aplikasi Android sederhana yang menyajikan daftar event/artikel terkini dalam fo
 
 ---
 
-## 🏁 Fitur Utama
+## Fitur Utama
 
-### 🏠 Halaman Utama
+### Halaman Utama
 - Menampilkan **10+ item artikel/event** dengan judul dan gambar.
 - Disusun dalam **RecyclerView** dengan desain bersih dan responsif.
 - Menerapkan **handler click** untuk membuka detail masing-masing item.
 
-### 📄 Halaman Detail
+### Halaman Detail
 - Menampilkan informasi lengkap dari item yang dipilih:
   - Gambar, Judul, dan Deskripsi detail.
 - Menggunakan **ScrollView** agar konten tetap terbaca saat rotasi layar.
 - Konsisten dengan data yang ditampilkan di halaman utama.
 
-### 👤 Halaman About
+### Halaman About
 - Menampilkan:
   - Foto diri
   - Nama lengkap
@@ -55,7 +55,7 @@ Aplikasi Android sederhana yang menyajikan daftar event/artikel terkini dalam fo
 ---
 
 
-## 🚀 Cara Menjalankan Proyek
+## Cara Menjalankan Proyek
 
 1. Clone repositori:
    ```bash
